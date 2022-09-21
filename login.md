@@ -4,3 +4,5 @@ login
 - password
 
 another update
+
+recover password
